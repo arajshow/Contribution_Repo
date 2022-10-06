@@ -10,6 +10,19 @@
 ***
 <br>
 
+## 😎 What to Contribute
+
+1. You can add your **Portfolio**
+2. you can solve Popular **DSA-Questions**
+3. add algorithams of **DSA**
+4. add your personal **Projects**
+
+
+<br>
+
+***
+<br>
+
 
 ## Getting Started
 
