@@ -1,1 +1,87 @@
-# Hacktoberfest2022
+
+<p align="center">
+   <img src="https://tipseason.com/assets/images/hacktoberfest-banner.jpg" alt="hacktoberfest-banner" width="640" height="320" />
+</p>
+<h1 align="center">  Hacktoberfest2022</h1>
+<h3 align="center">Maintain your Data Structures and Logics on the pace.</h3>
+<div align="center">
+    <img src="https://forthebadge.com/images/badges/built-with-love.svg" />
+</div>
+
+## Getting Started
+
+Below are the steps to follow to contribute to this project:
+
+**1.** Fork [this](https://github.com/arajshow/Hacktoberfest2022) repository.
+
+**2.** Clone your forked copy of the project.
+
+```
+git clone https://github.com/<your_user_name>/Hacktoberfest2022.git
+```
+
+where `your_user_name` is your GitHub username.
+
+**3.** Navigate to the project directory.
+
+```
+cd CookBook-Hacktoberfest
+```
+
+**4.** Add a reference(remote) to the original repository.
+
+```
+git remote add upstream https://github.com/arajshow/Hacktoberfest2022.git
+```
+
+**5.** Check the remotes for this repository.
+
+```
+git remote -v
+```
+
+**6.** Always take a pull from the upstream repository to your main branch to keep it at par with the main project(updated repository). Feel free to raise new issues.
+
+```
+git pull upstream main
+```
+
+**7.** Create a new branch.
+
+```
+git checkout -b <your_branch_name>
+```
+
+**8.** Make necessary changes and commit those changes
+
+**9.** Track your changes.
+
+```
+git add .
+```
+
+**10.** Commit your changes .
+
+```
+git commit -m "new changes"
+```
+
+**11.** Push the committed changes in your feature branch to your remote repo.
+
+```
+git push -u origin <your_branch_name>
+```
+
+**12.** To create a pull request, click on `Compare & pull request`. Please ensure you compare your feature branch to the desired branch of the repo you are suppose to make a PR to.
+
+**13.** Add appropriate title and description to your pull request explaining your changes and efforts done.
+
+**14.** Click on `Create pull request`.
+
+**15.** And you are done creating a pull request to this project. Be patient while your PR is reviewed.
+
+## Contributors
+
+<a href="https://github.com/arajshow/Hacktoberfest2022/contributors">
+  <img src="https://contrib.rocks/image?repo=arajshow/Hacktoberfest2022" />
+</a>
