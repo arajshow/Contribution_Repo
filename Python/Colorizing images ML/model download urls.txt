@@ -1,0 +1,6 @@
+https://github.com/richzhang/colorization/tree/caffe/colorization/models
+https://github.com/richzhang/colorization/blob/caffe/colorization/resources/pts_in_hull.npy
+
+# download colorization_deploy_v2.prototxt, colorization_v2_release.caffemodel (look in fetch_release_models.sh), pts_in_hull.npy
+
+# download them in a new directory and use in python script
